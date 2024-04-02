@@ -1,9 +1,12 @@
 # Project Managment App
 
+<<<<<<< HEAD
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub License](https://img.shields.io/github/license/MarcoBasileDev/Leetcode-Solutions?style=for-the-badge)
 
+=======
+>>>>>>> 5f0a9771a5d5e34a6ed198ae25ad880d7b8565b2
 This project is a simple Project Managment App built in React.
 I created this project to reinforce my understanding of React core concepts such as refs, props, etc..
 
@@ -28,6 +31,7 @@ I created this project to reinforce my understanding of React core concepts such
 - Add New Features
 - Improve current style
 - Add themes
+<<<<<<< HEAD
 
 ## Contributions
 
@@ -36,3 +40,5 @@ Contributions to this project are welcome! If you have ideas for improving the p
 ## License
 
 This project is licensed under the MIT License.
+=======
+>>>>>>> 5f0a9771a5d5e34a6ed198ae25ad880d7b8565b2
